@@ -1,0 +1,9 @@
+{
+    "name": "mr-jasmine",
+    "version": "1.0.0",
+    "main": "mr-jasmine",
+    "keywords": ["jasmine", "mr"],
+    "dependencies": {
+        "q": "~0.9.7"
+    }
+}
